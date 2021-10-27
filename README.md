@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @janeyou
-- 👀 I’m interested in crytpo, web3, data intelligence, health span
+- 👀 I’m interested in web3, data intelligence, health span
 - 🌱 I’m currently learning blockchain development with free time
 - 💞️ I’m looking to collaborate on hacking fun ideas
 - 📫 Twitter: @jane__you
