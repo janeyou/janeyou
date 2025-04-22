@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @janeyou
-- 👀 I’m curious about web3, carbon tracking, data intelligence, health span
-- 🌱 I’m currently learning blockchain development with free time
+- 👋 Hi, I’m @janeyou, 🚀 Tech PM & Builder
+- 👀 I’m curious about AI/ML, Cloud Infra, Early Child & Adult Intellgigence Development, Health Span
 - 📫 Twitter: @jane__you
 
 <!---
